@@ -3,7 +3,7 @@
 # Team Number and Members
 - **Team Number:** Group 7
 - **Members:**
-  - Name 1 [@githubhandle1](https://github.com/githubhandle1)
+  - Name 1 [@dakarie](https://github.com/dakarie/MIST-4610-Group-Project-2/tree/main)
   - Name 2 [@githubhandle2](https://github.com/githubhandle2)
   - Name 3 [@githubhandle3](https://github.com/githubhandle3)
   - Name 4 [@githubhandle4](https://github.com/githubhandle4)
