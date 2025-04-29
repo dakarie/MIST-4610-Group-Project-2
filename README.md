@@ -52,7 +52,7 @@ We used Tableau for visual analysis. The visualizations included:
 - Bar charts
 - Line graphs
 
-## Question 1: [Insert your full research question here]
+### Question 1: [Insert your full research question here]
 
 **Visualization:**  
 _Description of the planned graph or chart goes here (e.g., "Scatter plot showing average team age vs. playoff rounds reached")_
@@ -62,7 +62,7 @@ _Description of the planned graph or chart goes here (e.g., "Scatter plot showin
 - _Insight 2 goes here_
 
 
-## Question 2: Did Stephen Curry’s Arrival to the League Affect the Amount of Scoring and 3-Pointers Attempted in the NBA?
+### Question 2: Did Stephen Curry’s Arrival to the League Affect the Amount of Scoring and 3-Pointers Attempted in the NBA?
 
 **Visualization:**  
 Two bar charts comparing average team 3PT attempts and points per game across two time periods:
@@ -81,15 +81,31 @@ Two bar charts comparing average team 3PT attempts and points per game across tw
 
 # Data Manipulations
 
-- Cleaned null values (EXAMPLS)
-- Filtered rows/columns
-- Created calculated fields in Tableau
-- Aggregated data by category/time/region as needed
+
+### Question 1: [Insert your research question here]
+
+- 
+- 
+- 
+- 
+- 
+
+### Question 2: Did Stephen Curry’s Arrival to the League Affect the Amount of Scoring and 3-Pointers Attempted in the NBA?
+
+- Removed rows with missing values in key columns (`pts_per_game`, `x3pa_per_game`)
+- Filtered dataset by two time periods:
+  - 1992–2008 (pre-Curry era)
+  - 2009–2025 (post-Curry era)
+- Created calculated fields in Tableau to:
+  - Compute average team 3PT attempts and points per game per era
+- Aggregated data by team and season to create league-wide comparisons
+
 
 
 # Deliverables
 
-- ✅ `README.md`
-- ✅ Tableau Packaged Workbook (`project2.twbx`)
-- ✅ Dataset (`your_data.csv` or external link)
+- ✅ `README.md` – Full project explanation
+- ✅ `file name` – Tableau visualization file
+- ✅ `Team Stats Per Game.csv` – Dataset used for analysis
+
 
