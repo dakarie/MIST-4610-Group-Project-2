@@ -50,7 +50,7 @@
 
 We used Tableau for visual analysis. The visualizations included:
 - Bar charts
-- Line graphs
+- 
 
 ### Question 1: [Insert your full research question here]
 
@@ -62,7 +62,10 @@ _Description of the planned graph or chart goes here (e.g., "Scatter plot showin
 - _Insight 2 goes here_
 
 
+
 ### Question 2: Did Stephen Curry’s Arrival to the League Affect the Amount of Scoring and 3-Pointers Attempted in the NBA?
+
+![Image](https://github.com/user-attachments/assets/1d2f3f77-4ec1-4cda-8db9-9551ae8f7f2d)
 
 **Visualization:**  
 Two bar charts comparing average team 3PT attempts and points per game across two time periods:
@@ -72,8 +75,6 @@ Two bar charts comparing average team 3PT attempts and points per game across tw
 **Key Insights:**
 - From 1992 to 2008, most teams averaged under 20 3PT attempts per game. Post-2009, nearly every team consistently averaged 25–35 attempts.
 - Average scoring also increased, but the bigger shift was *how* teams scored — with a much greater reliance on 3-point shots across all franchises.
-
-
 
 
 
