@@ -3,7 +3,7 @@
 # Team Number and Members
 - **Team Number:** Group 7
 - **Members:**
-  - Name 1 [@dakarie](https://github.com/dakarie/MIST-4610-Group-Project-2/tree/main)
+  - Wilson Nguyen [@dakarie](https://github.com/dakarie/MIST-4610-Group-Project-2/tree/main)
   - Name 2 [@githubhandle2](https://github.com/githubhandle2)
   - Name 3 [@githubhandle3](https://github.com/githubhandle3)
   - Name 4 [@githubhandle4](https://github.com/githubhandle4)
@@ -13,8 +13,8 @@
 # Dataset Description
 
 - **Dataset Source:** [kaggle.com](https://www.kaggle.com/datasets/sumitrodatta/nba-aba-baa-stats?resource=download&select=Player+Play+By+Play.csv)
-- **Dataset Title:** _NBA Stats (1947-present)_
-- **Dimensions:** _10,000 rows × 15 columns_
+- **Dataset Title:** _We used the `Team Stats Per Game` file from the full dataset available on Kaggle._
+- **Dimensions:** _1876 rows × 28 columns_
 
 **Key Columns and Data Types:**
 - `Column A` – String
@@ -25,9 +25,9 @@
 
 # Research Questions
 
-1. **Question 1:** _Average Age of Playoff Teams of 2024_  
+1. **Question 1:** _blank_  
    - _Explain significance and how it connects to the dataset._
-2. **Question 2:** _NBA Average Points and 3 Point Attempts Per Game From 1992-2008 & 2009-2025_  
+2. **Question 2:** _Did Stephen Curry's arrival to the league effect the amount of scoring and 3-pointers attempted in the NBA?​_  
    - _Describe relevance (e.g., economic, social, cultural)._
 
 
