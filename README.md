@@ -16,9 +16,8 @@
 - **Dataset Title:** _We used the `Team Stats Per Game` file from the full dataset available on Kaggle._
 - **Dimensions:** _1876 rows × 28 columns_
 
-The dataset used for this project was sourced from Kaggle and is titled NBA/ABA/BAA Stats. Specifically, we utilized the “Team Stats Per Game” CSV file, which contains season-level performance metrics for professional basketball teams across the NBA, ABA, and BAA leagues.
+The dataset used for this project was sourced from Kaggle and is titled NBA/ABA/BAA Stats. Specifically, we utilized the “Team Stats Per Game” CSV file, which contains season-level performance metrics for professional basketball teams across the NBA, ABA, and BAA leagues.This dataset provides a comprehensive view of how basketball teams have performed on a per-game basis from the league’s early days through the 2023 season. It captures a wide range of statistics across multiple categories including shooting, scoring, rebounding, and playmaking.
 
-This dataset provides a comprehensive view of how basketball teams have performed on a per-game basis from the league’s early days through the 2023 season. It captures a wide range of statistics across multiple categories including shooting, scoring, rebounding, and playmaking.
 **Key Columns and Data Types:**
 - `season` – Integer (Year of the season)
 - `lg` – String (League name, e.g., NBA)
