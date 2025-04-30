@@ -36,8 +36,13 @@
 
 # Research Questions
 
-1. **Question 1:** _blank_  
-   - _Explain significance and how it connects to the dataset._
+1. **Question 1** _Is there a relationship between 3-point shooting volume and playoff qualification in the 2024 NBA season?_
+
+   - _This question is important because 3-point shooting has become a central part of modern NBA strategy, but it’s unclear whether simply attempting more 3-pointers directly contributes to playoff success. By investigating this link, we can better understand whether volume-based shooting translates to results or if other factors (like efficiency or defense) play a larger role. This insight can inform how teams evaluate performance, make roster decisions, and approach game strategy._
+
+   - _This question ties directly to our dataset, which includes `x3pa_per_game` (3-point attempts per game) and `playoffs` (playoff status) for each team. By isolating the 2024 season and comparing average 3PT attempts between playoff and non-playoff teams, we can evaluate whether there’s any real correlation between 3PT volume and making the postseason._
+
+
 2. **Question 2:** _Did Stephen Curry's arrival to the league effect the amount of scoring and 3-pointers attempted in the NBA?​_  
    - _This question matters because Stephen Curry is widely credited with revolutionizing the NBA’s offensive style through his unprecedented 3-point shooting volume and accuracy. His influence is believed to have reshaped team strategies, player development, and even how fans engage with the game. By analyzing league-wide trends in scoring and 3-point attempts before and after his arrival (2009), we can objectively measure the impact of this shift. This question connects directly to our dataset, which includes per-game statistics such as x3pa_per_game (3-point attempts) and pts_per_game (points per game) for every NBA team across multiple seasons. By comparing team averages between the pre-Curry era (1992–2008) and the post-Curry era (2009–2025), we can assess how much the league has changed and how much of that change aligns with Curry’s influence._
 
