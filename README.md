@@ -111,10 +111,5 @@ _Two bar charts comparing average team 3PT attempts and points per game across t
 
 
 
-# Deliverables
-
-- ✅ `README.md` – Full project explanation
-- ✅ `file name` – Tableau visualization file
-- ✅ `Team Stats Per Game.csv` – Dataset used for analysis
 
 
