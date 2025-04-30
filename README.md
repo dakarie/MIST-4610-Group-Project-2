@@ -118,7 +118,7 @@ Our analysis shows that while 3-point shooting volume has significantly increase
 # Deliverables
  
  - ✅ `README.md` – Full project explanation
- - ✅ `file name` – Tableau visualization file
+ - ✅ `Project 2.twbx` – Tableau visualization file
  - ✅ `Team Stats Per Game.csv` – Dataset used for analysis
 
 
