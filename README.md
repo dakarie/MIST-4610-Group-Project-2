@@ -109,6 +109,9 @@ _Two bar charts comparing average team 3PT attempts and points per game across t
   - Compute average team 3PT attempts and points per game per era
 - Aggregated data by team and season to create league-wide comparisons
 
+# Conclusion 
+Our analysis shows that while 3-point shooting volume has significantly increased since the late 2000s — especially after the emergence of Stephen Curry — success in the modern NBA is not solely based on 3-point attempts. In the 2024 season, teams with both high and low 3-point volumes made the playoffs, suggesting that efficiency and overall balance matter more than raw shooting volume. These findings reinforce the complexity of modern basketball strategy and how trends influence, but do not guarantee, competitive success.
+
 
 # Deliverables
  
