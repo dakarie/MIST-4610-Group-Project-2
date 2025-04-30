@@ -50,16 +50,18 @@
 
 We used Tableau for visual analysis. The visualizations included:
 - Bar charts
-- 
 
-### Question 1: [Insert your full research question here]
+### Question 1: Is There a Relationship Between 3-Point Shooting Volume and Playoff Qualification in the 2024 NBA Season?
+
+![Image](https://github.com/user-attachments/assets/78d94e1c-4bee-4dcc-97d8-482fab2b1955)
 
 **Visualization:**  
-_Description of the planned graph or chart goes here (e.g., "Scatter plot showing average team age vs. playoff rounds reached")_
+_This bar chart compares the average number of 3-point attempts per game by each NBA team in the 2024 season. Bars are color-coded by playoff status — green for teams that made the playoffs, red for those that did not. It provides a visual comparison of how 3-point volume may relate to postseason qualification._
 
-**Key Insights:**  
-- _Insight 1 goes here_  
-- _Insight 2 goes here_
+**Key Insights:**
+- Most of the top 3-point shooting teams did not make the playoffs, suggesting that high volume alone does not guarantee success.
+- Playoff teams tend to fall in the middle range of 3PT attempts, hinting that balance, efficiency, or other factors (like defense or shooting %) may be more important than just volume.
+- There is no clear linear correlation between average 3-point attempts and playoff qualification — teams with both high and low 3PT volumes are seen in both playoff and non-playoff groups.
 
 
 
@@ -68,7 +70,7 @@ _Description of the planned graph or chart goes here (e.g., "Scatter plot showin
 ![Image](https://github.com/user-attachments/assets/1d2f3f77-4ec1-4cda-8db9-9551ae8f7f2d)
 
 **Visualization:**  
-Two bar charts comparing average team 3PT attempts and points per game across two time periods:
+_Two bar charts comparing average team 3PT attempts and points per game across two time periods:_
 - 1992–2008 (pre-Curry era)
 - 2009–2025 (post-Curry era)
 
