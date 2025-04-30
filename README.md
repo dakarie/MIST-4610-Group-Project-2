@@ -90,13 +90,14 @@ _Two bar charts comparing average team 3PT attempts and points per game across t
 # Data Manipulations
 
 
-### Question 1: [Insert your research question here]
+### Question 1: Is there a relationship between 3-point shooting volume and playoff qualification in the 2024 NBA season?
 
-- 
-- 
-- 
-- 
-- 
+- Filtered the dataset to include only the 2024 NBA season
+- Used the `playoffs` column to separate teams into playoff vs. non-playoff groups
+- Used `x3pa_per_game` (3-point attempts per game) as the primary metric
+- Aggregated data by team to calculate average 3PT attempts
+- Applied color coding in Tableau to visually distinguish playoff teams from non-playoff teams in the bar chart
+
 
 ### Question 2: Did Stephen Curry’s Arrival to the League Affect the Amount of Scoring and 3-Pointers Attempted in the NBA?
 
